@@ -1,4 +1,4 @@
 # 1st-repository
 this is my first github repository.
 <br>
-Author - khadija parveez
+Author - khadijatul kubra
